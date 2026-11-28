@@ -293,6 +293,7 @@ changing a few things...
 - [kawilson129-cpu](https://github.com/kawilson129-cpu) - My frist contribution ! Happy to be here !!
 - [Shabareesh-Gowda](https://github.com/shabareesh390) - My first open-source contribution ! Happy to be here !! My core interest is in Java Backend developer
 kyle-xa
+- [yogi](https://github.com/yogipolinati) - Hi, this is my first contribution to open source!
 - [Thalles Conrado](https://github.com/conradothalles-stack) - My first open-source contribution!! 
 - [Mahitha](https://github.com/shortwhale) - First contribution!!!
 - [Mahi-Chandra](https://github.com/Mahi-Chandra) - First contribution!
