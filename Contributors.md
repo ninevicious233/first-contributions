@@ -9089,3 +9089,4 @@ Ajay
 - [Buddepu Joel](https://github.com/jbuddepu) - Full-stack developer & AI enthusiast
 - [Arun Sunhera] (https://github.com/sunheraarun) - Hey There, I am Arun Sunhera and this my first open source contribution. Very Happy for me Today.
 - [Ilyas Osman] (https://github.com/Ilyas17111) - Hi, this is my first contribution.
+- [Yash Pratap Singh](https://github.com/yashpratapsingh775-hue) - hi, this is the gangster paradise
